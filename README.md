@@ -1,4 +1,4 @@
-# For examples added projects:
+# For example added projects:
 1) Animation
 2) CurrenciesConverter
 3) Reminder
