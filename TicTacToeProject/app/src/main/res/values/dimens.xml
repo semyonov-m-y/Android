@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size">28sp</dimen>
+    <dimen name="view_size">100dp</dimen>
+    <dimen name="margin_end">28dp</dimen>
+    <dimen name="start_margin">8dp</dimen>
+    <dimen name="default_borders_margin">32dp</dimen>
+    <dimen name="margin_top_and_bottom">16dp</dimen>
+    <dimen name="third_row_top_margin">248dp</dimen>
+    <dimen name="second_row_top_margin">132dp</dimen>
+</resources>

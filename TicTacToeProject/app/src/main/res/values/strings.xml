@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="replay">REPLAY</string>
+    <string name="quit">QUIT</string>
+    <string name="wins">WINS</string>
+    <string name="formatter_winner">%s %s</string>
+</resources>

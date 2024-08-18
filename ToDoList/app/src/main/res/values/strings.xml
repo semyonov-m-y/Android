@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="enter_your_goal">Введите название цели:</string>
+    <string name="add">Добавить</string>
+    <string name="set_goal">Установить цель</string>
+    <string name="delete_goal">Удалить цель</string>
+</resources>
