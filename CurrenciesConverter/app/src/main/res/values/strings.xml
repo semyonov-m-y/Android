@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currencies Converter</string>
+    <string name="convert_button">Конвертировать</string>
+    <string name="enter_sum">Введите сумму для конвертации</string>
+    <string name="convert_from">Конвертировать из валюты:</string>
+    <string name="convert_to">Конвертировать в:</string>
+    <string name="total_sum_is">Итоговая сумма в выбранной валюте равна:</string>
+</resources>
