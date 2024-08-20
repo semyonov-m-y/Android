@@ -1,1 +1,1 @@
-# it's a currencies coverter for Android
+# It's a currencies coverter for Android
