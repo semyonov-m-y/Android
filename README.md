@@ -7,7 +7,9 @@ Advantages:
 - can be easily used by anyone
 - easily deployed on any Android device
 
-2) Reminder
+2) # Reminder
+Reminder App is a free and quick app that enables users to set reminders for tasks using alarms and notifications. It is available offline.
+
 3) TicTacToeProject
 4) ToDoList
 
