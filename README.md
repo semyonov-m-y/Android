@@ -3,3 +3,6 @@ For example added projects  (descriptions inside):
 2) Reminder
 3) TicTacToeProject
 4) ToDoList
+
+> [!NOTE]  
+> Skills and Tools: $${\color{gold}Android}$$ 
