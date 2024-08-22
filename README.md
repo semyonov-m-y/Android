@@ -13,7 +13,8 @@ Reminder App is a free and quick app that enables users to set reminders for tas
 3) # TicTacToe
 Tic-tac-toe (American English), noughts and crosses (Commonwealth English), or Xs and Os (Canadian or Irish English) is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner. It is a solved game, with a forced draw assuming best play from both players.
 
-4) ToDoList
+4) # To Do List
+To-do list apps help individuals prioritize tasks, set goals, and track progress, leading to increased efficiency and organization in both personal and professional endeavors. By providing a clear overview of tasks and deadlines, these apps reduce procrastination, improve focus, and facilitate better time management.
 
 > [!NOTE]  
 > Skills and Tools: $${\color{gold}Android}$$ 
